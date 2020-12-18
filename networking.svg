@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512pt"
+   viewBox="0 0 512 512"
+   width="512pt"
+   id="svg8717"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="networking.svg">
+  <metadata
+     id="metadata8777">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8775" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8773"
+     showgrid="false"
+     inkscape:zoom="0.36875"
+     inkscape:cx="320"
+     inkscape:cy="320"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg8717" />
+  <g
+     id="g8779">
+    <path
+       id="path8719"
+       fill="#ffdc55"
+       d="m271 241v-46h-30v46h-141v75h30v-45h252v45h30v-75zm0 0" />
+    <path
+       id="path8721"
+       fill="#ffcd00"
+       d="m271 241v-46h-15v76h126v45h30v-75zm0 0" />
+    <path
+       id="path8723"
+       fill="#c5e1e6"
+       d="m241 135h30v60h-30zm0 0" />
+    <path
+       id="path8725"
+       fill="#a7d2d7"
+       d="m256 135h15v60h-15zm0 0" />
+    <path
+       id="path8727"
+       fill="#ddebf0"
+       d="m141 0h230v150h-230zm0 0" />
+    <path
+       id="path8729"
+       fill="#c5e1e6"
+       d="m256 0h115v150h-115zm0 0" />
+    <path
+       id="path8731"
+       fill="#0042a2"
+       d="m171 30h170v90h-170zm0 0" />
+    <path
+       id="path8733"
+       fill="#ddebf0"
+       d="m195 180h122v30h-122zm0 0" />
+    <path
+       id="path8735"
+       fill="#c5e1e6"
+       d="m256 180h61v30h-61zm0 0" />
+    <path
+       id="path8737"
+       fill="#c5e1e6"
+       d="m382 437h30v60h-30zm0 0" />
+    <path
+       id="path8739"
+       fill="#a7d2d7"
+       d="m397 437h15v60h-15zm0 0" />
+    <path
+       id="path8741"
+       fill="#ddebf0"
+       d="m282 302h230v150h-230zm0 0" />
+    <path
+       id="path8743"
+       fill="#c5e1e6"
+       d="m397 302h115v150h-115zm0 0" />
+    <path
+       id="path8745"
+       fill="#0042a2"
+       d="m312 332h170v90h-170zm0 0" />
+    <path
+       id="path8747"
+       fill="#ddebf0"
+       d="m336 482h122v30h-122zm0 0" />
+    <path
+       id="path8749"
+       fill="#c5e1e6"
+       d="m397 482h61v30h-61zm0 0" />
+    <path
+       id="path8751"
+       fill="#c5e1e6"
+       d="m100 437h30v60h-30zm0 0" />
+    <path
+       id="path8753"
+       fill="#a7d2d7"
+       d="m115 437h15v60h-15zm0 0" />
+    <path
+       id="path8755"
+       fill="#ddebf0"
+       d="m0 302h230v150h-230zm0 0" />
+    <path
+       id="path8757"
+       fill="#c5e1e6"
+       d="m115 302h115v150h-115zm0 0" />
+    <path
+       id="path8759"
+       fill="#0042a2"
+       d="m30 332h170v90h-170zm0 0" />
+    <path
+       id="path8761"
+       fill="#ddebf0"
+       d="m54 482h122v30h-122zm0 0" />
+    <path
+       id="path8763"
+       fill="#c5e1e6"
+       d="m115 482h61v30h-61zm0 0" />
+    <g
+       id="g8765"
+       fill="#002659">
+      <path
+         id="path8767"
+         d="m256 30h85v90h-85zm0 0" />
+      <path
+         id="path8769"
+         d="m115 332h85v90h-85zm0 0" />
+      <path
+         id="path8771"
+         d="m397 332h85v90h-85zm0 0" />
+    </g>
+  </g>
+</svg>

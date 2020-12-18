@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="json.svg"><metadata
+   id="metadata3873"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3871" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="706"
+   id="namedview3869"
+   showgrid="false"
+   inkscape:zoom="0.61523438"
+   inkscape:cx="505.85843"
+   inkscape:cy="268.44882"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g6557"><path
+     id="path3821"
+     d="M 128,0 C 110.4,0 96,14.4 96,32 v 448 c 0,17.6 14.4,32 32,32 h 320 c 17.6,0 32,-14.4 32,-32 V 128 L 352,0 H 128 z"
+     style="fill:#e2e5e7"
+     inkscape:connector-curvature="0" /><path
+     id="path3823"
+     d="m 384,128 h 96 L 352,0 v 96 c 0,17.6 14.4,32 32,32 z"
+     style="fill:#b0b7bd"
+     inkscape:connector-curvature="0" /><polygon
+     id="polygon3825"
+     points="384,128 480,128 480,224 "
+     style="fill:#cad1d8" /><path
+     id="path3827"
+     d="m 477.03102,444.36191 c 0,6.11809 -7.10683,11.1238 -15.79296,11.1238 H 113.79296 C 105.10683,455.48571 98,450.48 98,444.36191 V 333.12381 C 98,327.00571 105.10683,322 113.79296,322 h 347.4451 c 8.68613,0 15.79296,5.00571 15.79296,11.12381 v 111.2381 z"
+     style="fill:#50bee8"
+     inkscape:connector-curvature="0" /><g
+     id="g3839">
+</g><g
+     id="g3841">
+</g><g
+     id="g3843">
+</g><g
+     id="g3845">
+</g><g
+     id="g3847">
+</g><g
+     id="g3849">
+</g><g
+     id="g3851">
+</g><g
+     id="g3853">
+</g><g
+     id="g3855">
+</g><g
+     id="g3857">
+</g><g
+     id="g3859">
+</g><g
+     id="g3861">
+</g><g
+     id="g3863">
+</g><g
+     id="g3865">
+</g><g
+     id="g3867">
+</g><text
+     sodipodi:linespacing="125%"
+     id="text6549"
+     y="424.09186"
+     x="157.6535"
+     style="font-size:15.29523849px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lao UI;-inkscape-font-specification:Lao UI"
+     xml:space="preserve"><tspan
+       style="font-size:100.11428833px"
+       y="424.09186"
+       x="157.6535"
+       id="tspan6551"
+       sodipodi:role="line">JSON</tspan></text>
+<text
+     sodipodi:linespacing="125%"
+     id="text6553"
+     y="264.03098"
+     x="199.45795"
+     style="font-size:29.1122551px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Lao UI;-inkscape-font-specification:Lao UI"
+     xml:space="preserve"><tspan
+       style="font-size:190.552948px"
+       y="264.03098"
+       x="199.45795"
+       id="tspan6555"
+       sodipodi:role="line">{;}</tspan></text>
+</g></svg>

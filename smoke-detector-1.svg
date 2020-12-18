@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="smoke-detector-1.svg"><metadata
+   id="metadata9012"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9010" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview9008"
+   showgrid="false"
+   inkscape:zoom="0.4609375"
+   inkscape:cx="256"
+   inkscape:cy="256"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g3734"><path
+     id="path8932"
+     d="M85.333,331.852v18.963c24.901,22.081,91.806,37.926,170.667,37.926s145.766-15.845,170.667-37.926  v-18.963H85.333z"
+     style="fill:#D5DCED;" /><path
+     id="path8934"
+     d="M341.333,379.259c-78.86,0-145.766-15.845-170.667-37.926v-9.481H85.333v18.963  c24.901,22.081,91.806,37.926,170.667,37.926c37.398,0,72.034-3.596,100.85-9.698C351.733,379.179,346.564,379.259,341.333,379.259z  "
+     style="fill:#C7CFE2;" /><path
+     id="path8936"
+     d="M436.148,350.815H75.852c-10.473,0-18.963-8.489-18.963-18.963v-28.444h398.222v28.444  C455.111,342.324,446.62,350.815,436.148,350.815z"
+     style="fill:#E4EAF8;" /><path
+     id="path8938"
+     d="M170.667,331.852v-28.444H56.889v28.444c0,10.472,8.491,18.963,18.963,18.963H189.63  C179.156,350.815,170.667,342.324,170.667,331.852z"
+     style="fill:#D5DCED;" /><polygon
+     id="polygon8940"
+     points="502.519,237.037 9.481,237.037 56.889,312.889 455.111,312.889 "
+     style="fill:#AFB9D2;" /><polygon
+     id="polygon8942"
+     points="256,237.037 9.481,237.037 56.889,312.889 256,312.889 "
+     style="fill:#959CB5;" /><polygon
+     id="polygon8944"
+     points="483.556,237.037 28.444,237.037 75.852,312.889 436.148,312.889 "
+     style="fill:#464655;" /><path
+     id="path8946"
+     d="M502.519,256H9.481C4.245,256,0,251.755,0,246.519V132.741c0-5.236,4.245-9.481,9.481-9.481h493.037  c5.236,0,9.481,4.245,9.481,9.481v113.778C512,251.755,507.755,256,502.519,256z"
+     style="fill:#E4EAF8;" /><circle
+     id="circle8948"
+     r="28.444"
+     cy="189.63"
+     cx="256"
+     style="fill:#FF5050;" /><path
+     id="path8950"
+     d="M270.222,203.852c-15.71,0-28.444-12.735-28.444-28.444c0-4.168,0.946-8.098,2.558-11.665  c-9.877,4.46-16.78,14.345-16.78,25.887c0,15.71,12.735,28.444,28.444,28.444c11.541,0,21.427-6.903,25.887-16.78  C278.319,202.905,274.391,203.852,270.222,203.852z"
+     style="fill:#C84146;" /><path
+     id="path8952"
+     d="M132.741,246.519V132.741c0-5.236,4.245-9.481,9.481-9.481H9.481c-5.236,0-9.481,4.245-9.481,9.481  v113.778C0,251.755,4.245,256,9.481,256h132.741C136.985,256,132.741,251.755,132.741,246.519z"
+     style="fill:#D5DCED;" /><g
+     id="g8954">
+	<rect
+   id="rect8956"
+   height="56.889"
+   width="18.963"
+   style="fill:#959CB5;"
+   y="256"
+   x="75.852" />
+	<rect
+   id="rect8958"
+   height="56.889"
+   width="18.963"
+   style="fill:#959CB5;"
+   y="256"
+   x="113.778" />
+	<rect
+   id="rect8960"
+   height="56.889"
+   width="18.963"
+   style="fill:#959CB5;"
+   y="256"
+   x="151.704" />
+</g><g
+     id="g8962">
+	<rect
+   id="rect8964"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="189.63" />
+	<rect
+   id="rect8966"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="227.556" />
+	<rect
+   id="rect8968"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="265.481" />
+	<rect
+   id="rect8970"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="303.407" />
+	<rect
+   id="rect8972"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="341.333" />
+	<rect
+   id="rect8974"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="379.259" />
+	<rect
+   id="rect8976"
+   height="56.889"
+   width="18.963"
+   style="fill:#AFB9D2;"
+   y="256"
+   x="417.185" />
+</g><g
+     id="g8978">
+</g><g
+     id="g8980">
+</g><g
+     id="g8982">
+</g><g
+     id="g8984">
+</g><g
+     id="g8986">
+</g><g
+     id="g8988">
+</g><g
+     id="g8990">
+</g><g
+     id="g8992">
+</g><g
+     id="g8994">
+</g><g
+     id="g8996">
+</g><g
+     id="g8998">
+</g><g
+     id="g9000">
+</g><g
+     id="g9002">
+</g><g
+     id="g9004">
+</g><g
+     id="g9006">
+</g></g>
+</svg>

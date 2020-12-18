@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512pt"
+   viewBox="-46 0 512 512"
+   width="512pt"
+   id="svg11936"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="vending-machine.svg">
+  <metadata
+     id="metadata11978">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11976" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview11974"
+     showgrid="false"
+     inkscape:zoom="0.36875"
+     inkscape:cx="320"
+     inkscape:cy="320"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11936" />
+  <g
+     id="g11980">
+    <path
+       id="path11938"
+       fill="#e0f4ff"
+       d="m317 77h53v239h-53zm0 0" />
+    <path
+       id="path11940"
+       fill="#ff641a"
+       d="m370 76v237h-80v-237h-41v240h-196v38h316v66h-316v21c0 11.050781 8.949219 20 20 20h323.226562c7.996094-2.617188 13.773438-10.125 13.773438-19v-366zm0 0" />
+    <path
+       id="path11942"
+       fill="#e0f4ff"
+       d="m80 81h170v235h-170zm0 0" />
+    <path
+       id="path11944"
+       fill="#c3ea21"
+       d="m130 276v40h-40v-40c0-11.050781 8.949219-20 20-20s20 8.949219 20 20zm0 0" />
+    <path
+       id="path11946"
+       fill="#c3ea21"
+       d="m210 156v40h-40v-40c0-11.050781 8.949219-20 20-20s20 8.949219 20 20zm0 0" />
+    <path
+       id="path11948"
+       fill="#5ecef4"
+       d="m210 256v60h-40v-60c0-11.050781 8.949219-20 20-20s20 8.949219 20 20zm0 0" />
+    <path
+       id="path11950"
+       fill="#5ecef4"
+       d="m130 136v60h-40v-60c0-11.050781 8.949219-20 20-20s20 8.949219 20 20zm0 0" />
+    <g
+       id="g11952"
+       fill="#7c8388">
+      <path
+         id="path11954"
+         d="m410 76v-46c0-8.875-5.777344-16.382812-13.773438-19h-322.226562c-11.050781 0-20 8.949219-20 20v45zm0 0" />
+      <path
+         id="path11956"
+         d="m82 356h288v66h-288zm0 0" />
+      <path
+         id="path11958"
+         d="m79 462h51v39h-51zm0 0" />
+      <path
+         id="path11960"
+         d="m320 462h50v39h-50zm0 0" />
+    </g>
+    <path
+       id="path11962"
+       d="m330 126c5.519531 0 10-4.480469 10-10s-4.480469-10-10-10-10 4.480469-10 10 4.480469 10 10 10zm0 0" />
+    <path
+       id="path11964"
+       d="m330 146c-5.519531 0-10 4.480469-10 10s4.480469 10 10 10 10-4.480469 10-10-4.480469-10-10-10zm0 0" />
+    <path
+       id="path11966"
+       d="m390 0h-360c-16.542969 0-30 13.457031-30 30v412c0 16.542969 13.457031 30 30 30h10v30c0 5.523438 4.476562 10 10 10h80c5.523438 0 10-4.476562 10-10v-30h140v30c0 5.523438 4.476562 10 10 10h80c5.523438 0 10-4.476562 10-10v-30h10c16.542969 0 30-13.457031 30-30v-412c0-16.542969-13.457031-30-30-30zm-360 20h360c5.515625 0 10 4.484375 10 10v36h-380v-36c0-5.515625 4.484375-10 10-10zm270 186h60v100h-60zm60-20h-60v-100h60zm-180 120v-50c0-5.515625 4.484375-10 10-10s10 4.484375 10 10v50zm10-80c-16.542969 0-30 13.457031-30 30v50h-20v-30c0-16.542969-13.457031-30-30-30s-30 13.457031-30 30v30h-20v-100h180v100h-20v-50c0-16.542969-13.457031-30-30-30zm-90 80v-30c0-5.515625 4.484375-10 10-10s10 4.484375 10 10v30zm20-120h-20v-50c0-5.515625 4.484375-10 10-10s10 4.484375 10 10zm80 0h-20v-30c0-5.515625 4.484375-10 10-10s10 4.484375 10 10zm40 0h-20v-30c0-16.542969-13.457031-30-30-30s-30 13.457031-30 30v30h-20v-50c0-16.542969-13.457031-30-30-30s-30 13.457031-30 30v50h-20v-100h180zm-120 306h-60v-20h60zm240 0h-60v-20h60zm30-40h-360c-5.515625 0-10-4.484375-10-10v-356h20v230c0 5.523438 4.476562 10 10 10h200c5.523438 0 10-4.476562 10-10v-230h20v230c0 5.523438 4.476562 10 10 10h80c5.523438 0 10-4.476562 10-10v-230h20v356c0 5.515625-4.484375 10-10 10zm0 0" />
+    <path
+       id="path11968"
+       d="m370 346h-320c-5.523438 0-10 4.476562-10 10v66c0 5.523438 4.476562 10 10 10h115c5.523438 0 10-4.476562 10-10s-4.476562-10-10-10h-105v-46h300v46h-105c-5.523438 0-10 4.476562-10 10s4.476562 10 10 10h115c5.523438 0 10-4.476562 10-10v-66c0-5.523438-4.476562-10-10-10zm0 0" />
+    <path
+       id="path11970"
+       d="m220 422c0 5.523438-4.476562 10-10 10s-10-4.476562-10-10 4.476562-10 10-10 10 4.476562 10 10zm0 0" />
+    <path
+       id="path11972"
+       d="m330 226c-5.523438 0-10 4.476562-10 10v40c0 5.523438 4.476562 10 10 10s10-4.476562 10-10v-40c0-5.523438-4.476562-10-10-10zm0 0" />
+  </g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 128 128"
+   width="512"
+   id="svg9909"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="volume.svg">
+  <metadata
+     id="metadata9933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9931" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview9929"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg9909" />
+  <g
+     id="g9956">
+    <g
+       data-name="Circle Grid"
+       id="Circle_Grid">
+      <circle
+         id="circle9912"
+         r="64"
+         fill="#ea8953"
+         cy="64"
+         cx="64" />
+    </g>
+    <g
+       id="icon">
+      <g
+         id="g9915"
+         fill="#eeefee">
+        <path
+           id="path9917"
+           d="m92.748 43.641 2.7-2.7a32.4 32.4 0 0 1 9.552 23.059 32.4 32.4 0 0 1 -9.551 23.06l-2.7-2.7a28.8 28.8 0 0 0 0-40.718z" />
+        <path
+           id="path9919"
+           d="m85.85 76.641a17.9 17.9 0 0 0 0-25.281l2.7-2.7a21.722 21.722 0 0 1 0 30.684z" />
+        <path
+           id="path9921"
+           d="m78.953 68.922a6.971 6.971 0 0 0 0-9.844l2.7-2.7a10.791 10.791 0 0 1 0 15.246z" />
+      </g>
+      <circle
+         id="circle9923"
+         r="7.747"
+         fill="#575b6d"
+         cy="64"
+         cx="68.336" />
+      <path
+         id="path9925"
+         fill="#575b6d"
+         d="m36.2 49.175v29.65h-11.51a1.69 1.69 0 0 1 -1.69-1.69v-26.27a1.69 1.69 0 0 1 1.69-1.69z" />
+      <path
+         id="path9927"
+         fill="#eeefee"
+         d="m68.336 97.954-32.137-19.129v-29.65l32.137-19.129z" />
+    </g>
+  </g>
+</svg>
